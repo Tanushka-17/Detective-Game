@@ -1,0 +1,14 @@
+CASEFILE INVESTIGATION REPORT
+Player: TT
+Case: 103 - The Vanishing Professor
+Accused: Department Head
+Correct culprit: Department Head
+Verdict: Correct
+Evidence collected: 4
+Score: 100/100
+
+EVIDENCE:
+- Laboratory: Professor notebook records threats over a disputed grant
+- Office: Department head keycard used after midnight
+- Library: Assistant has a dated receipt proving their alibi
+- Parking Lot: Camera shows the department head moving a large crate

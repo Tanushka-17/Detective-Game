@@ -1,0 +1,15 @@
+DialogueID,CaseID,SuspectID,RequiredClueID,Question,Answer
+1,101,201,0,Where were you last night,I stayed upstairs and heard an argument.
+2,101,202,0,Did you visit the mansion,No I worked in my office all evening.
+3,101,202,4,Why does CCTV show you at the mansion,I came to discuss a contract but I left quickly.
+4,101,202,1,What was the financial dispute about,He planned to cancel our partnership and I was angry.
+5,101,203,0,Did you hear anything,I heard footsteps coming from the garden.
+6,102,301,0,Did anyone enter without an invitation,No all guests were checked.
+7,102,302,0,Did you handle the necklace display,I only arranged the decorations.
+8,102,302,7,Why were you carrying a sealed bag,It held decoration supplies. I did not steal anything.
+9,102,303,0,Did you notice anything unusual,The event planner left the hall for several minutes.
+10,103,401,0,When did you last see the professor,I saw the professor before lunch.
+11,103,402,0,Was the lab locked,Yes but senior staff have access cards.
+12,103,403,0,Were you on campus overnight,No I was at a conference.
+13,103,403,10,Why was your keycard used after midnight,I lent my card to someone. I cannot recall who.
+14,103,403,12,Why did you move a crate at night,I was removing old equipment. That is all.

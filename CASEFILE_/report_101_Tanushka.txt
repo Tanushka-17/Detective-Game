@@ -1,0 +1,14 @@
+CASEFILE INVESTIGATION REPORT
+Player: Tanushka
+Case: 101 - The Midnight Murder
+Accused: Wife
+Correct culprit: Business Partner
+Verdict: Incorrect
+Evidence collected: 4
+Score: 40/100
+
+EVIDENCE:
+- Study Room: Torn letter about a financial dispute with the business partner
+- Garden: Muddy footprints leading toward the partner parking space
+- Bedroom: Broken watch stopped at 11:45 PM
+- Security Office: CCTV shows the partner entering the mansion at 11:30 PM
